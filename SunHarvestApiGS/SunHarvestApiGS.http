@@ -1,0 +1,6 @@
+@SunHarvestApiGS_HostAddress = http://localhost:5171
+
+GET {{SunHarvestApiGS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

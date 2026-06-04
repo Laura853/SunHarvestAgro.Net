@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0DF642-CE62-4D2E-A61A-B30F54DE9741}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0DF642-CE62-4D2E-A61A-B30F54DE9741}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SunHarvestApiGS\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SunHarvestApiGS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:05:51.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
