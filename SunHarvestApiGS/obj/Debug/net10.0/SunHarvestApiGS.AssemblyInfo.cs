@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SunHarvestApiGS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+704a268f2bc4cfc2e52a5758aed3966e978c331f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ec52c0bdc05e8af6f05537558ac2e833c0349de")]
 [assembly: System.Reflection.AssemblyProductAttribute("SunHarvestApiGS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SunHarvestApiGS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

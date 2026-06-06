@@ -21,10 +21,12 @@ namespace SunHarvestApiGS.Data
             modelBuilder.Entity<Fazenda>().ToTable("TB_FAZENDA");
             modelBuilder.Entity<Alerta>().ToTable("TB_ALERTA");
 
-            //Email do usuário é único
+            //Email do usuário e Id do dispositivo IoT devem ser únicos
 
             modelBuilder.Entity<Usuario>().HasIndex(u => u.Email).IsUnique();
+            modelBuilder.Entity<Fazenda>().HasIndex(f => f.IdDispositivoIot).IsUnique();
             base.OnModelCreating(modelBuilder);
+          
         }
     }
 }
