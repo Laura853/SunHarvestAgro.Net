@@ -13,7 +13,9 @@ namespace SunHarvestApiGS.Models
         public string Severidade { get; set; }
 
         [Required(ErrorMessage = "A data do alerta é obrigatória.")]
-        public DateTime Data { get; set; } = DateTime.Now;
+        public DateTime DataCriacao { get; set; } = DateTime.Now;
+
+        public Boolean Confirmado { get; set; } = false;
 
         //FK para Fazenda
 

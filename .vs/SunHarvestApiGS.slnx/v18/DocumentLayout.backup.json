@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\models\\fazenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\models\\fazenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\sunharvestapigs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\sunharvestapigs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\models\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\models\\fazenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\models\\fazenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|c:\\fiap\\ccgl\\.net\\sunharvestapigs\\sunharvestapigs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DCC8B7C-E3C1-6F48-0383-A9B09D239B11}|SunHarvestApiGS\\SunHarvestApiGS.csproj|solutionrelative:sunharvestapigs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,71 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Program.cs",
-              "RelativeDocumentMoniker": "SunHarvestApiGS\\Program.cs",
-              "ToolTip": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Program.cs",
-              "RelativeToolTip": "SunHarvestApiGS\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T17:24:57.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\appsettings.json",
-              "RelativeDocumentMoniker": "SunHarvestApiGS\\appsettings.json",
-              "ToolTip": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\appsettings.json",
-              "RelativeToolTip": "SunHarvestApiGS\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-04T16:19:30.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "SunHarvestApiGS\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "SunHarvestApiGS\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:05:51.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Alerta.cs",
               "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Models\\Alerta.cs",
               "RelativeDocumentMoniker": "SunHarvestApiGS\\Models\\Alerta.cs",
               "ToolTip": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Models\\Alerta.cs",
               "RelativeToolTip": "SunHarvestApiGS\\Models\\Alerta.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T16:22:01.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Fazenda.cs",
               "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Models\\Fazenda.cs",
               "RelativeDocumentMoniker": "SunHarvestApiGS\\Models\\Fazenda.cs",
               "ToolTip": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Models\\Fazenda.cs",
               "RelativeToolTip": "SunHarvestApiGS\\Models\\Fazenda.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAkwAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:21:30.634Z"
+              "WhenOpened": "2026-06-04T16:21:30.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "SunHarvestApiGS\\Models\\Usuario.cs",
@@ -114,7 +80,59 @@
               "RelativeToolTip": "SunHarvestApiGS\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T16:21:45.433Z"
+              "WhenOpened": "2026-06-04T16:21:45.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SunHarvestApiGS",
+              "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\SunHarvestApiGS.csproj",
+              "RelativeDocumentMoniker": "SunHarvestApiGS\\SunHarvestApiGS.csproj",
+              "ToolTip": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\SunHarvestApiGS.csproj",
+              "RelativeToolTip": "SunHarvestApiGS\\SunHarvestApiGS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-06T17:07:38.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Program.cs",
+              "RelativeDocumentMoniker": "SunHarvestApiGS\\Program.cs",
+              "ToolTip": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Program.cs",
+              "RelativeToolTip": "SunHarvestApiGS\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T17:24:57.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SunHarvestApiGS\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SunHarvestApiGS\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:05:51.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\appsettings.json",
+              "RelativeDocumentMoniker": "SunHarvestApiGS\\appsettings.json",
+              "ToolTip": "C:\\FIAP\\CCGL\\.Net\\SunHarvestApiGS\\SunHarvestApiGS\\appsettings.json",
+              "RelativeToolTip": "SunHarvestApiGS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-04T16:19:30.097Z"
             }
           ]
         }

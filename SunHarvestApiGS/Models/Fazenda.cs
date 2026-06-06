@@ -36,6 +36,11 @@ namespace SunHarvestApiGS.Models
         [Required(ErrorMessage = "A capacidade do painel solar é obrigatória")]
         public double CapacidadePainel { get; set; }
 
+        public DateTime DataCadastro { get; set; } 
+        public DateTime DataAtualizacao { get; set; }
+        public float? AzimutGraus { get; set; }
+        public float? TaxaDesempenho { get; set; }
+        public string? IdDispositivoIot { get; set; }
 
         //FK para Usuario
 
