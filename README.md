@@ -26,77 +26,68 @@ O Brasil é o maior irrigante da América Latina. Mais de 8,2 milhões de hectar
 | Scalar.AspNetCore | 2.x | Documentação interativa |
 | C# | 13 | Linguagem |
  
----
- 
-## 📁 Arquitetura e Organização do Projeto
- 
+--- 
 
+## 📁 Arquitetura e Organização do Projeto
+
+```text
 SunHarvestApiGS/
 ├── Controllers/
 │   ├── UsuariosController.cs       → endpoints de usuários
 │   ├── FazendasController.cs       → endpoints de fazendas
-│   └── AlertasController.cs      → endpoints de alertas
+│   └── AlertasController.cs        → endpoints de alertas
 ├── Data/
-│   └── AppDbContext.cs          → contexto do banco de dados
+│   └── AppDbContext.cs             → contexto do banco de dados
 ├── Models/
 │   ├── Usuario.cs                  → entidade usuário
 │   ├── Fazenda.cs                  → entidade fazenda
-│   ├── Alerta.cs                 → entidade alerta
+│   ├── Alerta.cs                   → entidade alerta
 │   ├── UsuarioRequest.cs           → DTO de entrada usuário
 │   ├── FazendaRequest.cs           → DTO de entrada fazenda
-│   └── AlertaRequest.cs          → DTO de entrada alerta
-├── Migrations/                  → histórico de mudanças no banco
-├── appsettings.json             → configuração da connection string
-└── Program.cs                   → configuração da aplicação
-
+│   └── AlertaRequest.cs            → DTO de entrada alerta
+├── Migrations/                     → histórico de mudanças no banco
+├── appsettings.json                → configuração da connection string
+└── Program.cs                      → configuração da aplicação
+```
  
 ## 🗄️ Diagrama do Banco de Dados
- 
 
-┌─────────────────────┐
-│      TB_USUARIO     │
-├─────────────────────┤
-│ Id (PK)             │
-│ Nome                │
-│ Email (UNIQUE)      │
-│ Senha               │
-└────────┬────────────┘
-         │ 1
-         │
-         │ N
-┌────────▼─────────────────┐
-│      TB_FAZENDA          │
-├──────────────────────────┤
-│ Id (PK)                  │
-│ Nome                     │
-│ Latitude                 │
-│ Longitude                │
-│ Altitude                 │
-│ TipoCultura              │
-│ TipoSolo                 │
-│ Area                     │
-│ Irrigacao                │
-│ CapacidadePainel         │
-│ PotenciaBomba            │
-│ AzimutGraus              │
-│ TaxaDesempenho           │
-│ IdDispositivoIot (UNIQUE)│
-│ UsuarioId (FK)           │
-└────────┬─────────────────┘
-         │ 1
-         │
-         │ N
-┌────────▼────────────┐
-│     TB_ALERTA       │
-├─────────────────────┤
-│ Id (PK)             │
-│ Mensagem            │
-│ Severidade          │
-│ Confirmado          │
-│ DataCriacao         │
-│ FazendaId (FK)      │
-└─────────────────────┘
+```text
+TB_USUARIO
+├── Id (PK)
+├── Nome
+├── Email (UNIQUE)
+└── Senha
 
+      1 ─────── N
+
+TB_FAZENDA
+├── Id (PK)
+├── Nome
+├── Latitude
+├── Longitude
+├── Altitude
+├── TipoCultura
+├── TipoSolo
+├── Area
+├── Irrigacao
+├── CapacidadePainel
+├── PotenciaBomba
+├── AzimutGraus
+├── TaxaDesempenho
+├── IdDispositivoIot (UNIQUE)
+└── UsuarioId (FK)
+
+      1 ─────── N
+
+TB_ALERTA
+├── Id (PK)
+├── Mensagem
+├── Severidade
+├── Confirmado
+├── DataCriacao
+└── FazendaId (FK)
+```
 Ao excluir um usuário:
 - todas as fazendas dele são removidas automaticamente
 - todos os alertas das fazendas também são removidos
